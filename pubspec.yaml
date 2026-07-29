@@ -1,0 +1,39 @@
+name: carrer_route
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  firebase_core: ^3.10.1
+  firebase_auth: ^5.4.1
+  url_launcher: ^6.1.11
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  # App logo generator package
+  flutter_launcher_icons: ^0.13.1
+
+# App Icon Configuration
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/logo.png" # Make sure your logo is at this path
+  min_sdk_android: 21
+
+flutter:
+  uses-material-design: true
+
+  # Assets section enabled
+  assets:
+    - assets/logo.png
+    - assets/

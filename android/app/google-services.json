@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "43669951090",
+    "project_id": "carrer-route",
+    "storage_bucket": "carrer-route.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43669951090:android:2ce1fe23a64e3787cd28eb",
+        "android_client_info": {
+          "package_name": "com.example.carrer_route"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCznCmTS24sLzPjmeIlPoZjlXeuHNzI7Cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
